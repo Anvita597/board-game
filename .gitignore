@@ -1,0 +1,17 @@
+
+# Java
+*.class
+target/
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+
+# Operating System
+.DS_Store
+Thumbs.db
