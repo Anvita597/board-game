@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+# Local database credentials
+board-game-hub/src/main/resources/application.properties
+
+# Java and Maven generated files
+board-game-hub/target/
+*.class
+
+# VS Code files
+.vscode/
+
+# Postman local files
+.postman/
+postman/
+=======
+
+# Java
+*.class
+target/
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+
+# Operating System
+.DS_Store
+Thumbs.db
+>>>>>>> origin/authentication
