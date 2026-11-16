@@ -1,0 +1,13 @@
+# Local database credentials
+board-game-hub/src/main/resources/application.properties
+
+# Java and Maven generated files
+board-game-hub/target/
+*.class
+
+# VS Code files
+.vscode/
+
+# Postman local files
+.postman/
+postman/
